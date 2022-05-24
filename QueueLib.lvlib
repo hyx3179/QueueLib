@@ -8,10 +8,8 @@
 
 </Property>
 	<Item Name="控件" Type="Folder">
-		<Item Name="队列组.ctl" Type="VI" URL="../队列组.ctl"/>
 		<Item Name="数据类型.ctl" Type="VI" URL="../数据类型.ctl"/>
 	</Item>
 	<Item Name="队列组.vi" Type="VI" URL="../队列组.vi"/>
 	<Item Name="发送消息.vi" Type="VI" URL="../发送消息.vi"/>
-	<Item Name="发送组消息.vi" Type="VI" URL="../发送组消息.vi"/>
 </Library>
